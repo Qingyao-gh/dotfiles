@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = qyao.duan@gmail.com
+	name = qingyao duan
